@@ -1,0 +1,32 @@
+.title {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    background-color:palevioletred
+}
+h2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: greenyellow;
+}
+.attributes {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+body {
+    background-image:url(https://tse2.mm.bing.net/th?id=OIP.n0AwlPLNCixzuvA7s7buqQHaEK&pid);
+
+}
+p {
+    font-weight:bold;
+    font-family: Helvetica;
+    font-size: 20px;
+    color: red;
+}
